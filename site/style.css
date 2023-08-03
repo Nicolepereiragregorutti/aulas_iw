@@ -1,0 +1,12 @@
+body{
+    background-color: steelblue;
+}
+.s{
+    text-align: center;
+    color: darkblue;
+}
+.p{
+    width: 20%;
+    height: 40%;
+    background-color: rgb(99, 99, 160);
+}
